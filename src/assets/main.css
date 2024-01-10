@@ -1,0 +1,22 @@
+body {
+  font-family: monospace;
+}
+.container {
+  width: 800px;
+  margin: 1em auto;
+  padding: 0.6em 1em;
+  background-color: whitesmoke;
+}
+.text-center {
+  text-align: center;
+}
+.btn-full {
+  width: 100%;
+  padding: 0.2em 1em;
+  font-family: monospace;
+  text-align: center;
+  font-weight: bold;
+}
+.mt-1 {
+  margin-top: 1em;
+}
